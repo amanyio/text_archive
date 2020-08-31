@@ -1,7 +1,13 @@
 ﻿{
     "app_ver": 19,
-    "data_ver": 2,
+    "data_ver": 3,
     "data": [
+        {
+            "ver": 3,
+            "file": "madrese.json",
+            "title": "روز معلم و آغاز مدرسه",
+            "info": "دانلود ۴۶ متن و ۲ مجموعه" 
+        },
         {
             "ver": 2,
             "file": "tavalod.json",
